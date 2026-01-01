@@ -1,0 +1,15 @@
+# Ignore unnecessary files
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore local configs or sensitive files
+*.env
+*.log
+
+# Ignore compiled Lua files
+*.luac
+
+# Ignore other temporary files
+*.tmp
